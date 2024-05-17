@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 67c207d61a6158b4eaf9df268c8f093c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _prefabMoneda: {instanceID: 0}
+  - _puntoGeneracion1: {instanceID: 0}
+  - _puntoGeneracion2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
